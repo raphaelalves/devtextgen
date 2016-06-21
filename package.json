@@ -1,0 +1,28 @@
+{
+  "name": "developer-text-generator",
+  "version": "1.0.0",
+  "description": "Generates some placeholder and funny messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphaelalves/devtextgen.git"
+  },
+  "keywords": [
+    "develop",
+    "tool",
+    "text",
+    "generator"
+  ],
+  "author": "Raphael Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelalves/devtextgen/issues"
+  },
+  "homepage": "https://github.com/raphaelalves/devtextgen#readme",
+  "dependencies": {
+    "cli": "^0.11.2"
+  }
+}
